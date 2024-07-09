@@ -1,0 +1,19 @@
+Make JSON for a video that is 800x600 and 15 seconds long, with the text 'Welcome' in blue on a white background.
+
+Make JSON for a video that is 1024x768 and 10 seconds long, with the text 'Hello World' in green on a yellow background.
+
+Make JSON for a video that is 1280x720 and 20 seconds long, with the text 'Goodbye' in red on a blue background. 
+
+Make JSON for a video that is 640x480 and 8 seconds long, with the text 'Loading' in purple on a gray background.
+
+Make JSON for a video that is 1920x1080 and 30 seconds long, with the text 'Subscribe' in white on a black background. 
+
+Make JSON for a video that is 800x600 and 25 seconds long, with the text 'Happy Birthday' in pink on a green background.
+
+Make JSON for a video that is 1024x576 and 12 seconds long, with the text 'Sale Now On' in orange on a red background.
+
+Make JSON for a video that is 800x800 and 18 seconds long, with the text 'Thank You' in yellow on a black background.
+
+Make JSON for a video that is 1280x720 and 22 seconds long, with the text 'Event Starts Soon' in cyan on a dark blue background.
+
+Make JSON for a video that is 854x480 and 14 seconds long, with the text 'Please Wait' in magenta on a white background.
