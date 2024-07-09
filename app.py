@@ -6,7 +6,7 @@ import json
 
 
 load_dotenv()
-client = OpenAI()
+
 
 
 def main():
@@ -17,10 +17,14 @@ def main():
     dictionary with the specified structure when the "Generate JSON" button is clicked.
 
     """
+    if not os.getenv("OPENAI_API_KEY"):
+        st.error("Please set your OpenAI API key in the environment variables.")
+        return
     st.title("Video Description to JSON Converter")
 
     st.write("Enter your video description below:")
 
+    client = OpenAI()
     video_description = st.text_area("Video Description", height=200)
     col1, col2 = st.columns(2)
     with col1:
